@@ -1,0 +1,31 @@
+h1 {
+    font-size: 40px;
+    font-family: Centaur;
+    color: indigo;
+}
+
+
+body {
+    background: linear-gradient(to right, lightgrey,black);
+}
+
+
+button {
+    padding: 25px;
+    border-radius: 10px;
+    font-size: 29px;
+    cursor: pointer;
+    border: none;
+    background-color: green;
+    color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.8);
+    transition: 0.5s;
+}
+
+
+button:hover {
+    color: lime;
+    background-color: darkgreen;
+}
+
+
